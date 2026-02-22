@@ -26,15 +26,15 @@ const Hero = () => {
             transition={{ duration: 0.7 }}
           >
             <h1 className="font-display text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
-              <span className="text-gradient-spice">Pure spices.</span>
+              <span className="text-gradient-spice">Pure spices </span>
               <br />
-              Real flavor.
+              Real flavour.
               <br />
-              <span className="text-muted-foreground text-4xl md:text-5xl">No shortcuts.</span>
+              <span className="text-muted-foreground text-4xl md:text-5xl">Freshly ground perfection.</span>
             </h1>
             <p className="text-lg text-muted-foreground max-w-lg mb-8 leading-relaxed">
-              Freshly ground homemade masalas crafted in small batches using premium whole spices. 
-              No preservatives. No fillers. Just authentic aroma that transforms everyday cooking.
+              Discover premium quality homemade masalas made in small batches using carefully selected whole spices. Our products contain no preservatives, no artificial colours, and no fillers — only pure natural ingredients. Perfect for authentic Indian cooking, rich aroma, and traditional taste in every dish. Buy fresh ground spices online for the best flavour experience. 
+            
             </p>
             <div className="flex flex-wrap gap-4">
               <a

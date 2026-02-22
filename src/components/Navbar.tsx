@@ -28,7 +28,7 @@ const Navbar = () => {
           <a href="#story" className="text-foreground font-medium hover:text-primary transition-colors" onClick={() => setOpen(false)}>Story</a>
           <a href="#faq" className="text-foreground font-medium hover:text-primary transition-colors" onClick={() => setOpen(false)}>FAQ</a>
           <a
-            href="https://wa.me/919958768683"
+            href="https://wa.me/918076997341"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-whatsapp text-primary-foreground px-5 py-2.5 rounded-full font-semibold shadow-lg hover:shadow-xl transition-all hover:scale-105"
